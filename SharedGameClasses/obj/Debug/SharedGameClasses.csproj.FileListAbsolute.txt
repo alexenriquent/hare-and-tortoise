@@ -1,0 +1,30 @@
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Documents and Settings\roggenka\Desktop\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\archive\INB270\2013 Sem 1\Assignments\Class Assignment\270 2013 Sandpit\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\roggenka\Desktop\CAB201\2014 Semester 2\Assisignments\Class\Hare & Tortoise\HareAndTortoise\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\ALEX\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\ALEX\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\ALEX\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\ALEX\Documents\Visual Studio 2012\Projects\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\ALEX\Desktop\HareAndTortoise_V3\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\ALEX\Desktop\HareAndTortoise_V3\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\ALEX\Desktop\HareAndTortoise_V3\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\HareAndTortoise_V3\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\ALEX\Desktop\HareAndTortoise_V3\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
+C:\Users\ALEX\Desktop\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.dll
+C:\Users\ALEX\Desktop\HareAndTortoise\SharedGameClasses\bin\Debug\SharedGameClasses.pdb
+C:\Users\ALEX\Desktop\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.csprojResolveAssemblyReference.cache
+C:\Users\ALEX\Desktop\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.dll
+C:\Users\ALEX\Desktop\HareAndTortoise\SharedGameClasses\obj\Debug\SharedGameClasses.pdb
